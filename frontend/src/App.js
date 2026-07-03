@@ -16,6 +16,7 @@ import ReportActions from "./components/dashboard/ReportActions";
 import SmartInsights from "./components/dashboard/SmartInsights";
 import ExpenseForm from "./components/ExpenseForm";
 import ExpenseList from "./components/ExpenseList";
+import Footer from "./components/Footer";
 import NotificationCenter from "./components/notifications/NotificationCenter";
 import MonthlyReportPreview from "./components/reports/MonthlyReportPreview";
 import Toast from "./components/Toast";
@@ -231,6 +232,7 @@ function App() {
       <MonthlyReportPreview analytics={analytics} />
 
       {!isLoading && <SmartInsights analytics={analytics} />}
+      <Footer />
     </main>
   );
 }
