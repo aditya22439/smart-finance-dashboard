@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Smart Finance Dashboard icon</title>
+  <desc id="desc">A finance dashboard mark with a wallet, chart bars, and a rupee symbol.</desc>
+  <defs>
+    <linearGradient id="bg" x1="64" y1="448" x2="448" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="0.54" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="coin" x1="172" y1="144" x2="334" y2="306" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fef3c7"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <path fill="#ffffff" opacity="0.16" d="M96 366c84-14 126-78 194-62 58 14 86 72 154 44v70c0 30-24 54-54 54H150c-30 0-54-24-54-54v-52Z"/>
+  <rect x="116" y="154" width="280" height="220" rx="40" fill="#f8fafc"/>
+  <path fill="#dbeafe" d="M156 154h210c17 0 30 13 30 30v24H116v-14c0-22 18-40 40-40Z"/>
+  <rect x="302" y="218" width="94" height="90" rx="24" fill="#0f766e"/>
+  <circle cx="332" cy="263" r="14" fill="#ccfbf1"/>
+  <circle cx="236" cy="244" r="74" fill="url(#coin)"/>
+  <path fill="#78350f" d="M206 202h72v22h-23c7 6 11 13 12 22h12v20h-13c-6 25-28 39-60 39h-3l60 65h-35l-58-64v-24h32c16 0 27-5 32-16h-64v-20h64c-4-13-16-22-34-22h-30v-22h36Z"/>
+  <rect x="150" y="322" width="38" height="30" rx="10" fill="#22c55e"/>
+  <rect x="204" y="302" width="38" height="50" rx="10" fill="#0ea5e9"/>
+  <rect x="258" y="278" width="38" height="74" rx="10" fill="#2563eb"/>
+</svg>
