@@ -202,6 +202,8 @@ REACT_APP_API_URL=https://smart-finance-backend-6end.onrender.com
 **Aditya Yadav**
 
 GitHub: https://github.com/aditya22439
+LinkedIn:www.linkedin.com/in/aditya-yadav-0a54y85d
+
 
 ---
 
